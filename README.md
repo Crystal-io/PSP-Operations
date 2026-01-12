@@ -1,2 +1,2 @@
 # PSP-Operations
-Self - Learning course to deep-dive into PSP Account Manager (Operations) field
+Self - Learning handbook to deep-dive into PSP Operations
