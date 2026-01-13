@@ -1,4 +1,4 @@
-# Email Deliverability и Domain Warming (iGaming)  
+# Email Deliverability и Domain Warming (iGaming)   
 ### Практический 2-дневный курс / операционный гайд
 
 ## 🎯 Цель материала
