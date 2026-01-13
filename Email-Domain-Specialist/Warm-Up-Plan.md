@@ -1,4 +1,4 @@
-## 📅 Day-by-Day Warm-up Plan (пример)
+## 📅 Day-by-Day Warm-up Plan (пример) 
 
 ### 🟦 Technical — `tx.example.com`
 *Системные и транзакционные письма (самый доверенный стрим)*
