@@ -1,4 +1,4 @@
-# Incident Playbook — Email Deliverability  
+# Incident Playbook — Email Deliverability   
 ## Перегрев сабдоменов (падение репутации)
 
 ### Контекст
